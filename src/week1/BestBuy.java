@@ -1,3 +1,5 @@
+package week1;
+
 public class BestBuy {
 
     //O(n) solution, choose backwards direction because can only sell after buy.
